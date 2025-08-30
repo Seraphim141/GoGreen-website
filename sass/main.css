@@ -150,7 +150,7 @@ body {
 
 .home-section {
   display: flex;
-  background-image: url(../../image/Background-Home-Page.jpg);
+  background-image: url(../image/Background-Home-Page.jpg);
   height: 1024px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -191,7 +191,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 0;
-  background-image: url(../../../image/About-background.jpg);
+  background-image: url(../image/About-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0 69px;
@@ -232,7 +232,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: end;
-  background-image: url(../../../image/About-s2-background.jpg);
+  background-image: url(../image/About-s2-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 1297px;
@@ -369,7 +369,7 @@ body {
   justify-content: center;
   padding: 0;
   border-radius: 6px;
-  background-image: url(../../image/Footer-background.jpg);
+  background-image: url(../image/Footer-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
