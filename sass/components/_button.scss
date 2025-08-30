@@ -1,0 +1,44 @@
+.home-section__button-join{
+    width:137px;
+    height: 54px;
+    padding: 0;
+    border: none;
+    border-radius: 16px;
+    background-color: var(--color-green);
+    color: var(--color-while);
+    font-family: "Roboto" sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2;
+    cursor: pointer;
+}
+.button-join-section{
+    width: 129px;
+    height: 51px;
+    padding: 0;
+    border: none;
+    border-radius: 16px;
+    background-color: var(--color-green);
+    color: var(--color-while);
+    font-family: "Roboto" sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2;
+    cursor: pointer;
+}
+
+.footer__btn-messenger{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    border: none;
+    background-color: var(--color-grey);
+    padding: 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 8px;
+    z-index: 1;
+}

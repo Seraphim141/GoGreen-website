@@ -1,0 +1,37 @@
+.about-section-4{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    padding: 72px 114px 0 85px;
+
+    &__conteiner{
+        display: flex;
+        flex-direction: row;
+        gap: 115px;
+    }
+    &__box-info{
+        display: flex;
+        flex-direction: column;
+        max-width: 623px;
+        gap: 24px;
+    }
+    &__text-h{
+        font-size: 48px;
+        font-weight: 600;
+        line-height: 1.2;
+        color: var(--color-black);
+        margin: 0;
+        padding-top: 72px;
+    }
+    &__text-p{
+        font-size: 24px;
+        font-weight: 400;
+        line-height:1.8;
+        color: var(--color-black);
+        margin: 0;
+    }
+    &__img{
+        width: 507px;
+        height: 825px;
+    }
+}
