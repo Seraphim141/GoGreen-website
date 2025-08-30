@@ -42,3 +42,31 @@
     padding: 8px;
     z-index: 1;
 }
+
+.button-Read-more{
+    padding: 20px 41px;
+    border: none;
+    border-radius: 16px;
+    background-color: var(--color-green);
+    color: var(--color-while);
+    font-family: "Roboto" sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.2;
+    cursor: pointer;
+}
+
+.button-tag{
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width:200px;
+    height:54px;
+    font-family: "Lora", sans-serif;;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--color-body-tex);
+    background-color: var(--color-grey);
+    padding: 0;
+}
